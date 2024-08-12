@@ -1,0 +1,14 @@
+D:\Users\20241170150074\OneDrive - IFRN\visual studio algoritmos e motores\projeto1\bin\Debug\net8.0\projeto1.exe
+D:\Users\20241170150074\OneDrive - IFRN\visual studio algoritmos e motores\projeto1\bin\Debug\net8.0\projeto1.deps.json
+D:\Users\20241170150074\OneDrive - IFRN\visual studio algoritmos e motores\projeto1\bin\Debug\net8.0\projeto1.runtimeconfig.json
+D:\Users\20241170150074\OneDrive - IFRN\visual studio algoritmos e motores\projeto1\bin\Debug\net8.0\projeto1.dll
+D:\Users\20241170150074\OneDrive - IFRN\visual studio algoritmos e motores\projeto1\bin\Debug\net8.0\projeto1.pdb
+D:\Users\20241170150074\OneDrive - IFRN\visual studio algoritmos e motores\projeto1\obj\Debug\net8.0\projeto1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150074\OneDrive - IFRN\visual studio algoritmos e motores\projeto1\obj\Debug\net8.0\projeto1.AssemblyInfoInputs.cache
+D:\Users\20241170150074\OneDrive - IFRN\visual studio algoritmos e motores\projeto1\obj\Debug\net8.0\projeto1.AssemblyInfo.cs
+D:\Users\20241170150074\OneDrive - IFRN\visual studio algoritmos e motores\projeto1\obj\Debug\net8.0\projeto1.csproj.CoreCompileInputs.cache
+D:\Users\20241170150074\OneDrive - IFRN\visual studio algoritmos e motores\projeto1\obj\Debug\net8.0\projeto1.dll
+D:\Users\20241170150074\OneDrive - IFRN\visual studio algoritmos e motores\projeto1\obj\Debug\net8.0\refint\projeto1.dll
+D:\Users\20241170150074\OneDrive - IFRN\visual studio algoritmos e motores\projeto1\obj\Debug\net8.0\projeto1.pdb
+D:\Users\20241170150074\OneDrive - IFRN\visual studio algoritmos e motores\projeto1\obj\Debug\net8.0\projeto1.genruntimeconfig.cache
+D:\Users\20241170150074\OneDrive - IFRN\visual studio algoritmos e motores\projeto1\obj\Debug\net8.0\ref\projeto1.dll
